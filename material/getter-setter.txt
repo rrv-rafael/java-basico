@@ -1,0 +1,3 @@
+O set é usado para atribuir um valor!
+
+O get é usado para obter um valor!
